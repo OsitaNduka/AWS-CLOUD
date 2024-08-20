@@ -1,4 +1,4 @@
-![Alt text](image-1.png)
+![Alt text](5yr.png)
 # JOURNAL ENTRY ZERO: STEPS
 1. **What would you like to be doing?** 
 *6 months from now*
