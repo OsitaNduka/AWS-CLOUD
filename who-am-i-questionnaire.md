@@ -120,7 +120,7 @@ I led teams in livestock breeding and feed production, ensuring high standards i
 ##### Director at Locked-On Energy Systems Ltd, Nigeria (Jan 1995 – Jul 2010)
 
 As the founder and director of a renewable energy solutions business, I managed import processes for solar products, oversaw installations, and maintained high levels of client satisfaction. I expanded the business globally, catering to a diverse client base, including SMEs across multiple countries.
-##### Electoral Registration Officer Canvasser | Polling Clerk at London Borough of Newham (May 2011 – Dec 2022)
+##### Electoral Registration Officer, Canvasser | Polling Clerk at London Borough of Newham (May 2011 – Dec 2022)
 
 In this position, I managed the distribution of electoral registration forms and coordinated with households to ensure accurate voter registration. I also set up polling stations and provided assistance during elections, showcasing my organizational skills and commitment to public service.
 ##### Delivery Officer at Royal Mail Group (Sep 2012 – Aug 2014)

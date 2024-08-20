@@ -17,7 +17,7 @@
 
  **My 5yrs  Forecast**
 1.  In 6 months from now I would like to be working as an AWS Solutions Architect - Associate with a base salary of £45000 - £60000/yr.
-2 years from now I would like to be  an AWS Certified Solutions Architect - Professinal | Machine Learning Engineer - Associate with a base salary of £65000 - £90000/yr.
+2 years from now I would like to be  an AWS Certified Solutions Architect - Professional | Machine Learning Engineer - Associate with a base salary of £65000 - £90000/yr.
 5 years from now I would like to be an AWS Certified Machine learning Specialty | Cloud Consultant with a base salary of £95000 - £200000/yr.
 
 **What to Learn in 5yrs**
