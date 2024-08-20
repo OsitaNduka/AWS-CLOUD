@@ -61,7 +61,7 @@ I am detail-oriented with a strong ability to solve problems practically and cre
 
 #### I'm very interested in:
 
-##### 1. Technology and Web Development:   ![alt text](image.png)
+##### 1. Technology and Web Development:   ![alt text](cloud.png)
 I have a strong interest in technology, especially in the field of Cloud computing,(AWS Platform) and Web development. I'm driven by a passion for creating cutting-edge software solutions in the cloud. I'm constantly exploring new technologies to build scalable and efficient cloud-based systems. I love the challenge of architecting robust cloud infrastructure. I'm always eager to dive into complex problems and find innovative solutions through technology. I enjoy staying updated on the latest trends in front-end development, including new frameworks, tools, and best practices. The process of building responsive, user-friendly web applications fascinates me, and I’m always eager to learn more about advancements in this area.
 
 ##### 2. Leadership and Team Dynamics:
