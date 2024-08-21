@@ -1,21 +1,6 @@
 ![Alt text](5yr.png)
-# JOURNAL ENTRY ZERO: STEPS
-1. **What would you like to be doing?** 
-*6 months from now*
-*2 years from now*
-*5 years from now*
 
-1. **What would you like to learn?**
-*within 6 months*
-*within 2 years*
-*within 5 years*
-
-
-1. One thing that you could do better is  _______________ (fill in the blank).
-
-1. What qualities do you admire in other people?
-
- **My 5yrs  Forecast**
+ ***My 5yrs  Forecast***
  ![alt text](image-4.png)  ![alt text](image-5.png)
 1.  In 6 months from now I would like to be working as an AWS Solutions Architect - Associate with a base salary of £45000 - £60000/yr.![alt text](image.png)
 2 years from now I would like to be  an AWS Certified Solutions Architect - Professional | Machine Learning Engineer - Associate with a base salary of £65000 - £90000/yr.![alt text](image-1.png)
@@ -30,7 +15,21 @@
 
 #### NB: Markdown is a lightweight markup language that is used for formatting elements to plaintext document. 
 
+JOURNAL ENTRY ZERO: STEPS
+1. **What would you like to be doing?** 
+*6 months from now*
+*2 years from now*
+*5 years from now*
 
+1. **What would you like to learn?**
+*within 6 months*
+*within 2 years*
+*within 5 years*
+
+
+1. One thing that you could do better is  _______________ (fill in the blank).
+
+1. What qualities do you admire in other people?
 ----
 
 
