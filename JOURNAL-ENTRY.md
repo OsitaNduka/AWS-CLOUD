@@ -2,7 +2,12 @@
 ## JOURNAL ENTRY ZERO: STEPS
  **My 5yr Professional Forecast**
  ![alt text](image-4.png)  ![alt text](image-5.png)
-1.  In 6 months from now I would like to be working as an AWS Solutions Architect - Associate with a base salary of £45000 - £60000/yr.![alt text](image.png)
+1.  In 6 months from now I would like to be working as an AWS Solutions Architect - Associate with a base salary of £45000 - £60000/yr. 
+Create a structured study plan: Identify the AWS Certified Solutions Architect - Associate exam objectives and allocate time for studying each topic.
+Gain hands-on experience: Build and deploy AWS solutions using free tier accounts or practice environments to solidify your understanding of AWS services and their applications.
+Network with professionals: Connect with other AWS enthusiasts, attend meetups, and participate in online communities to learn from experienced professionals and get career advice.
+Practice and prepare for the exam: Take practice exams to assess your knowledge and identify areas for improvement. Review the exam objectives and study materials to ensure you are well-prepared.
+![alt text](image.png)
 
 2 years from now I would like to be  an AWS Certified Solutions Architect - Professional | Machine Learning Engineer - Associate with a base salary of £65000 - £90000/yr.![alt text](image-1.png)
 
