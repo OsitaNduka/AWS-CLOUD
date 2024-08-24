@@ -20,22 +20,22 @@ Cooking is my creative outlet; I love transforming simple ingredients into extra
 
 ### I am really good at: 
 
-##### 1. Agile Project Management: ![alt text](image-12.png)
+##### 1. Agile Project Management: ![alt text](agile.png)
 I excel in managing projects using Agile methodologies. Whether it's Scrum, Kanban, or Lean, I can effectively lead teams through the entire project lifecycle, from planning and sprint execution to reviews and retrospectives. My ability to create and manage product backlogs, define clear goals, and facilitate communication between stakeholders and development teams ensures that projects are delivered efficiently and with high quality.
 
-##### 2. Leadership and Team Management: ![alt text](image-13.png)
+##### 2. Leadership and Team Management: ![alt text](leadership.png)
 I'm highly skilled at leading and motivating teams. I create a positive and productive work environment where team members feel valued and empowered to contribute their best. My leadership style focuses on clear communication, support, and guidance, which helps in achieving operational excellence.
 
-##### 3. Problem-Solving and Decision-Making: ![alt text](image-14.png)
+##### 3. Problem-Solving and Decision-Making: ![alt text](problem.png)
 One of my strongest skills is my ability to think critically and solve problems creatively. I approach challenges with a practical mindset, always looking for the most effective solutions. My decision-making is informed by thorough analysis and consideration of all variables, which has consistently led to successful outcomes in complex situations.
 
-##### 4. Financial Management: ![alt text](image-16.png)
+##### 4. Financial Management: ![alt text](financial.png)
 I have a strong grasp of financial aspects in business, including budgeting, financial analysis, and resource allocation. My experience in managing financial resources has enabled me to maintain profitability and optimize returns on projects and business operations. I'm also adept at fundraising and managing financial risks.
 
 ##### 5. Technical Proficiency: ![alt text](technical.png)
 In addition to my management skills, I'm technically proficient in Front-End Web Development. I have hands-on experience with HTML, CSS, JavaScript, React, and other tools, which allows me to bridge the gap between technical and non-technical team members. My knowledge of AWS Cloud Infrastructure, Project Management Tools and DevOps pipelines further strengthens my ability to oversee complex projects with a technical component.
 
-##### 6. Communication and Interpersonal Skills: ![alt text](image-6.png)
+##### 6. Communication and Interpersonal Skills: ![alt text](communication.png)
 Communication is one of my core strengths. I can articulate technical concepts to non-technical audiences clearly and effectively, ensuring that everyone involved in a project understands the objectives and progress. My interpersonal skills help me build strong relationships with stakeholders, team members, and clients, fostering collaboration and trust.
 
 #### If you ask other people, they would describe me as:
