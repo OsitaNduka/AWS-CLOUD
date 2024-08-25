@@ -53,7 +53,7 @@ I am well-versed in Agile methodologies like Scrum, Kanban, and Lean. I have exp
 #### Communication: 
 My communication and interpersonal skills are top-notch, which allows me to work effectively with stakeholders, team members, and clients, ensuring that everyone is on the same page.
 #### Technical Proficiency: 
-I have a solid foundation in front-end web development, including HTML, CSS, JavaScript, and React. I am also knowledgeable in DevOps pipelines, AWS Cloud Infrastructure, and test-driven development.
+I have a solid foundation in Front-End Web Development, including HTML, CSS, JavaScript, and React. I am also knowledgeable in DevOps pipelines, AWS Cloud Infrastructure, Test-Driven Development and Project Management tools and their role in agile development. I explore popular options like Asana, Trello, Basecamp, and Monday.com for general project management, and Jira, Azure DevOps, Rally, and ScrumDO for agile methodologies. The choice of tool depends on my team's specific needs and preferences.
 #### Problem Solving: 
 I am detail-oriented with a strong ability to solve problems practically and creatively, especially under pressure.
 
@@ -72,7 +72,7 @@ Given my background in renewable energy solutions, I have a strong interest in s
 I’m always eager to learn and grow, which is why I’m interested in ongoing education and professional development. Whether it’s through formal training, reading, or practical experience, I’m committed to expanding my knowledge and skills. I find great value in staying curious and open to new ideas, especially in the fast-paced world of technology and business.
 
 ##### 5. Global Markets and Financial Systems:
-My interest in international law and financial markets stems from my academic background, and I continue to follow developments in these areas closely. I’m particularly interested in how global financial systems evolve and how legal frameworks adapt to changing economic landscapes.
+My interest in International Law and Financial Markets stems from my academic background, and I continue to follow developments in these areas closely. I’m particularly interested in how global financial systems evolve and how legal frameworks adapt to changing economic landscapes.
 
 ##### 6. Agile Project Management:
 I have a deep interest in Agile methodologies and how they can be applied to improve project outcomes. I’m constantly exploring new techniques and tools within the Agile framework to enhance efficiency, collaboration, and product quality. I’m particularly interested in how Agile principles can be adapted to different industries and team dynamics.
