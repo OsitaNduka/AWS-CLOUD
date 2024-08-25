@@ -86,6 +86,7 @@ I enjoy the process of planning and executing projects, particularly within the 
 ##### Team Collaboration:
 
 I love working with teams, fostering collaboration, and helping others succeed. Whether it’s through daily stand-ups, sprint reviews, or just offering support and guidance, I find great joy in being part of a productive and motivated team.
+
 Problem-Solving:
 
 Tackling complex problems and finding practical solutions is something I thrive on. Whether it’s a technical issue, a project management challenge, or a strategic decision, I enjoy diving into the details and working towards the best possible outcome.
@@ -96,9 +97,11 @@ I have a keen interest in staying up-to-date with the latest technologies, espec
 ##### Swimming and Jogging:
 
 For relaxation and fitness, I enjoy swimming and jogging. These activities help me stay physically active and mentally refreshed, providing a good balance to my work life.
+
 Meditation:
 
 I practice meditation regularly as a way to maintain focus and manage stress. It’s a quiet time where I can clear my mind, reflect, and recharge.
+
 Reading:
 
 I have a deep love for reading, whether it’s books, articles, or research papers. I’m particularly interested in subjects related to technology, leadership, and global markets, but I also enjoy diving into fiction or philosophy for a change of pace.
@@ -142,7 +145,8 @@ Most Interesting Aspect: Leading operations in the agricultural sector was parti
 Most Interesting Aspect: The renewable energy sector itself was a source of great interest. I was passionate about the potential of solar energy to transform how we power our lives sustainably. The global nature of the business also fascinated me—expanding operations across different countries and navigating the complexities of international trade and client relations provided valuable lessons in global business management.
 ##### 4. Electoral Registration Officer Canvasser | Polling Clerk at London Borough of Newham
 Most Interesting Aspect: I found the civic responsibility and direct impact on the democratic process to be incredibly fulfilling. The most interesting part of this job was engaging with a diverse community and ensuring that every eligible voter had the opportunity to participate in the electoral process. I enjoyed the organizational challenge of setting up polling stations and coordinating with various stakeholders to ensure smooth and fair elections.
-5. Delivery Officer at Royal Mail Group
+
+##### 5. Delivery Officer at Royal Mail Group
 Most Interesting Aspect: The logistical aspect of managing deliveries under various conditions was what I found most intriguing. I enjoyed optimizing delivery routes and schedules to ensure efficiency, and I took pride in overcoming the daily challenges that came with changes in weather, traffic, and customer needs. The role taught me a lot about time management and problem-solving on the go.
 #### Volunteer Roles:
 ##### Community Outreach Volunteer
