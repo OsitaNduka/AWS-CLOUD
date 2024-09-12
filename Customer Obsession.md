@@ -1,4 +1,4 @@
-### Customer Obsession ![alt text](image-14.png)
+# Customer Obsession ![alt text](customer-obsession.png)
 
 #### Situation:
 As a shopkeeper in a busy neighborhood market, I noticed a decline in the number of regular customers visiting the store. Many customers mentioned in passing that they were going to bigger stores due to better prices and more variety, and warranty. This was concerning, as my shop had always been a community favorite. I knew I had to improve the customer experience and find ways to win them back.
