@@ -13,7 +13,7 @@
 ![alt text](image-19.png)
 
 **Situation:**
-While serving as an Agile Project Manager, I was working on expanding our e-commerce business by launching a new product line in the electronics sector. During a strategic planning meeting with my leadership team, a majority of the team pushed for a costly marketing campaign focused entirely on social media influencers. I disagreed with this approach, as our data indicated that a more diversified marketing strategy across different platforms, including search engine optimization (SEO) and email marketing, would yield better returns. However, challenging the team's decision created tension.
+While serving as an Agile Project Manager | Scrum Master, I was working on expanding our e-commerce business by launching a new product line in the electronics sector. During a strategic planning meeting with my leadership team, a majority of the team pushed for a costly marketing campaign focused entirely on social media influencers. I disagreed with this approach, as our data indicated that a more diversified marketing strategy across different platforms, including search engine optimization (SEO) and email marketing, would yield better returns. However, challenging the team's decision created tension.
 
 **Task:**
 I had to respectfully challenge the team's decision, present data-backed insights to support my position, and ultimately commit to the final direction of the campaign, regardless of the outcome. It was important to ensure that our decision would benefit the company's long-term goals, while also fostering team cohesion and trust in leadership.
